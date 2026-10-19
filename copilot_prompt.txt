@@ -1,0 +1,1 @@
+Create quiz.py: a Python quiz with 5 questions about cloud and AI. Ask one at a time, check the answer and show the score at the end.
